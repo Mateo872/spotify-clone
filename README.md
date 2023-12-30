@@ -13,6 +13,7 @@ Este proyecto tiene como objetivo proporcionar una experiencia similar a la de S
 - TypeScript: Un superset de JavaScript que agrega tipos estáticos al lenguaje.
 - View Transitions: Se utiliza para mejorar las transiciones entre vistas y proporcionar una experiencia de usuario fluida.
 - Tailwind CSS: Un marco de trabajo de utilidad de primera clase para construir interfaces de usuario rápidas y modernas.
+- Zustand: Una biblioteca de gestión de estado para React que es simple, eficiente y escalable.
 
 ## Funcionalidades Principales
 
